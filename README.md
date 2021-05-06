@@ -7,6 +7,7 @@
 
 ![Nikita's Github Commit Stats](https://github-readme-streak-stats.herokuapp.com/?user=nikitajuneja1&theme=vue-dark&background=028090&currStreakNum=f0f3bd&sideNums=f0f3bd&ring=00a896&fire=00a896)
 
+<h2> Connect with me! </h2>
 <a href="https://www.linkedin.com/in/nikita-juneja-66b148176/">
   <img align="left" width="50px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
