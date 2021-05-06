@@ -7,5 +7,10 @@
 
 ![Nikita's Github Commit Stats](https://github-readme-streak-stats.herokuapp.com/?user=nikitajuneja1&theme=vue-dark&background=028090&currStreakNum=f0f3bd&sideNums=f0f3bd&ring=00a896&fire=00a896)
 
-   
+<a href="https://www.linkedin.com/in/nikita-juneja-66b148176/">
+  <img align="left" width="50px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+</a>
 
+<a href = "mailto: nikita.juneja289@gmail.com">
+  <img align="left" width="50px" src="https://img.icons8.com/color/48/000000/gmail.png" />
+</a>
